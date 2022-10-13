@@ -1,0 +1,39 @@
+.black{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: black ;
+    
+}
+.green{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: green ;
+    
+}
+.red{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: red ;
+    
+}
+.goldenrod{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: goldenrod ;
+    
+}
+h1{
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 40%;
+    font-size: 1.5rem;
+    text-overflow: wrap;
+}
