@@ -17,7 +17,15 @@ const EightBall = ({answers}) =>  {
 
     return (
 
-         <div className={color}   onClick={askQuestion}>
+         <div onClick={askQuestion} style={
+            { 
+            height: 300,
+            width: 300,
+            borderRadius: '50%',
+            display: 'inline-Block',
+            backgroundColor: `${color}`
+            
+        }}>
              <h1>{message}</h1>
         </div>
     )
